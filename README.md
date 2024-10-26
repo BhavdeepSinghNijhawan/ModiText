@@ -1,6 +1,6 @@
 <h1 align="center">ModiText</h1>
 
-![Screenshot from 2024-10-26 11-18-35](https://github.com/user-attachments/assets/ed5c0603-8425-41f7-ab24-1f41b6803f96)
+![Screenshot from 2024-10-26 11-21-39](https://github.com/user-attachments/assets/813db2c8-efd1-44e4-8649-65c66afa8827)
 
 ## LIVE URL
 
