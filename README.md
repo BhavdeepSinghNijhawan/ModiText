@@ -2,10 +2,6 @@
 
 ![Screenshot from 2024-10-26 11-18-35](https://github.com/user-attachments/assets/ed5c0603-8425-41f7-ab24-1f41b6803f96)
 
-## INTRODUCTION
-
-Real-Time Text Analysis and String Replacement is a web application built with React that allows users to input text and receive instant analysis. The tool performs real-time string analysis, including word frequency and text manipulation. Additionally, it enables users to replace specific words or phrases within the text dynamically. With its intuitive interface, the project aims to enhance the efficiency of text processing tasks and provide a seamless user experience for content analysis.
-
 ## LIVE URL
 
 - https://fascinating-moonbeam-d54780.netlify.app/
